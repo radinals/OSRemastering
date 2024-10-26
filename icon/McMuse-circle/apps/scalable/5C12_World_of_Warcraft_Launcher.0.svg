@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="5C12_World_of_Warcraft_Launcher.0.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient850">
+      <stop
+         style="stop-color:#ff9100;stop-opacity:1"
+         offset="0"
+         id="stop846" />
+      <stop
+         style="stop-color:#ff6e05;stop-opacity:1"
+         offset="1"
+         id="stop848" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient850"
+       id="linearGradient852"
+       x1="8.5970163"
+       y1="1.4073085"
+       x2="8.5970163"
+       y2="15.529401"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="19.094594"
+     inkscape:cy="23.358795"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:url(#linearGradient852);stroke-width:0.388662;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
+       id="path835"
+       cx="8.4666662"
+       cy="8.4666662"
+       r="7.9375" />
+    <g
+       id="g1111"
+       transform="translate(-4.6963578,0.58221552)">
+      <path
+         d="m 13.163007,3.5223633 c -0.783299,-2.9e-6 -1.509262,0.2110555 -2.144686,0.5725319 l -1.6357596,1.46e-5 2.6e-6,1.6176095 C 9.0143169,6.3522818 8.8009569,7.0932739 8.8009569,7.8844574 8.800954,8.675641 9.0143063,9.4166066 9.382564,10.056396 l -2.1e-6,1.599432 1.5994331,2e-6 c 0.643307,0.373883 1.383347,0.590682 2.181039,0.590709 0.797693,2e-6 1.546781,-0.216808 2.190115,-0.590709 l 1.590331,4e-6 5e-6,-1.590331 c 0.371766,-0.6419847 0.581607,-1.3858078 0.581607,-2.1810395 0,-0.7952316 -0.209849,-1.5390548 -0.581607,-2.1810133 l -10e-7,-1.6085079 -1.626658,1.24e-5 C 14.681429,3.733481 13.946337,3.5224229 13.163065,3.5224493 Z m 0.01818,0.7360973 c 1.99906,-4.7e-6 3.616854,1.6178742 3.616854,3.6168541 0,1.99898 -1.617847,3.6261143 -3.616854,3.6258503 -1.999006,-4.4e-5 -3.6168539,-1.6269497 -3.6168539,-3.6258503 -5e-6,-1.9990593 1.6178739,-3.6168541 3.6168539,-3.6168541 z"
+         fill="#191919"
+         stroke-width="1.03039"
+         id="path3791" />
+      <path
+         d="m 14.02502,6.1973008 0.161618,0.2231893 -0.361712,2.3935266 C 13.558755,7.7363688 13.210511,6.3082274 13.209214,6.3050524 L 12.6243,8.8063173 12.170222,6.6282938 12.26258,6.2050134 10.946516,6.1896252 c 0.105286,0.080433 0.185531,0.2158233 0.269372,0.3232415 l 0.831162,3.3787291 c -0.06839,0.1268732 -0.171129,0.2465492 -0.253978,0.3540392 0.443838,0.0024 0.897255,0.0054 1.277567,0.0077 l -0.09236,-0.4001823 0.253973,-1.1621294 0.215488,1.2621683 -0.03848,0.3001434 1.254495,-0.0077 -0.0077,-0.0077 -0.169314,-0.3232417 0.50792,-3.1707667 0.38481,-0.5618162 c -0.451511,0.00495 -0.903023,0.010197 -1.354534,0.015396 z"
+         fill="#191919"
+         stroke-width="1.03039"
+         id="path3793" />
+    </g>
+  </g>
+</svg>

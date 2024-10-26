@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b-5" x1="9.2603" x2="9.2603" y1="-.26249" y2="15.612" gradientTransform="matrix(1 0 0 1 15.119 1.8216)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1c1d1d" offset="0"/>
+   <stop stop-color="#313232" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4785" x1="44.171" x2="44.171" y1="13.358" y2="154.97" gradientTransform="matrix(.031953 -.0085617 .0085617 .031953 19.542 4.8146)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2759"/>
+  <linearGradient id="linearGradient2759" x1="44.171" x2="44.171" y1="13.358" y2="154.97" gradientTransform="matrix(.031952 -.0085615 .0085615 .031952 4.7278 4.0918)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4d717b" offset="0"/>
+   <stop stop-color="#251e3c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4787" x1="37.639" x2="37.639" y1="15.912" y2="150.34" gradientTransform="matrix(.031953 -.0085617 .0085617 .031953 19.542 4.8146)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2761"/>
+  <linearGradient id="linearGradient2761" x1="37.639" x2="37.639" y1="15.912" y2="150.34" gradientTransform="matrix(.031952 -.0085615 .0085615 .031952 4.7278 4.0918)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c1fff7" offset="0"/>
+   <stop stop-color="#88feea" offset=".038424"/>
+   <stop stop-color="#2f8ffe" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4789" x1="44.171" x2="44.171" y1="13.358" y2="154.97" gradientTransform="matrix(.031953 -.0085617 .0085617 .031953 21.957 7.1143)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2759"/>
+  <linearGradient id="linearGradient4791" x1="37.639" x2="37.639" y1="15.912" y2="150.34" gradientTransform="matrix(.031953 -.0085617 .0085617 .031953 21.957 7.1143)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2761"/>
+  <linearGradient id="linearGradient4793" x1="44.171" x2="44.171" y1="13.358" y2="154.97" gradientTransform="matrix(.031953 -.0085617 .0085617 .031953 24.371 9.414)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2759"/>
+  <linearGradient id="linearGradient4795" x1="37.639" x2="37.639" y1="15.912" y2="150.34" gradientTransform="matrix(.031953 -.0085617 .0085617 .031953 24.371 9.414)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2761"/>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-15.913 -1.03)">
+  <circle cx="24.379" cy="9.4967" r="7.9375" fill="url(#b-5)" stroke-width=".963" style="paint-order:stroke markers fill"/>
+  <g stroke-width=".50001">
+   <path d="m18.468 5.4936 5.2957-1.419c0.48789-0.13073 0.76716 0.045848 0.97987 0.56573l1.2579 3.0746c0.16783 0.41023-0.1376 0.86515-0.56573 0.97987l-6.1115 1.6375c-0.42813 0.11472-0.92086-0.12644-0.97987-0.56573l-0.44227-3.2931c-0.07315-0.54468 0.02658-0.83541 0.56573-0.97987z" fill="#7a8693" style="paint-order:fill markers stroke"/>
+   <path d="m18.468 5.4936 5.2957-1.419c0.48789-0.13073 0.7666 0.046076 0.97987 0.56573l1.2135 2.9571c0.15234 0.37122-0.05306 0.8425-0.55365 0.97663l-6.1115 1.6375c-0.63307 0.16963-0.95143-0.34543-0.97987-0.56573l-0.40992-3.1724c-0.07043-0.54505 0.02658-0.83541 0.56573-0.97987z" fill="url(#linearGradient4785)" style="paint-order:fill markers stroke"/>
+   <path d="m18.634 5.6046 5.0301-1.3478c0.53914-0.14446 0.7159-0.081123 0.97987 0.56573l1.093 2.6781c0.21917 0.53703-0.01036 0.83106-0.51096 0.96519l-5.8458 1.5664c-0.63307 0.16963-0.86116-0.1509-0.92008-0.58175l-0.3919-2.866c-0.07754-0.56706-0.05028-0.81481 0.56573-0.97987z" fill="url(#linearGradient4787)" style="paint-order:fill markers stroke"/>
+   <path d="m20.883 7.7933 5.2957-1.419c0.48789-0.13073 0.76716 0.045848 0.97987 0.56573l1.2579 3.0746c0.16783 0.41023-0.1376 0.86515-0.56573 0.97987l-6.1115 1.6375c-0.42813 0.11472-0.92086-0.12644-0.97987-0.56573l-0.44227-3.2931c-0.07315-0.54468 0.02658-0.83541 0.56573-0.97987z" fill="#7a8693" style="paint-order:fill markers stroke"/>
+   <path d="m20.883 7.7933 5.2957-1.419c0.48789-0.13073 0.7666 0.046076 0.97987 0.56573l1.2135 2.9571c0.15234 0.37122-0.05306 0.8425-0.55365 0.97663l-6.1115 1.6375c-0.63307 0.16963-0.95143-0.34543-0.97987-0.56573l-0.40992-3.1724c-0.07043-0.54505 0.02658-0.83541 0.56573-0.97987z" fill="url(#linearGradient4789)" style="paint-order:fill markers stroke"/>
+   <path d="m21.048 7.9043 5.0301-1.3478c0.53914-0.14446 0.7159-0.081123 0.97987 0.56573l1.093 2.6781c0.21917 0.53703-0.01036 0.83106-0.51096 0.96519l-5.8458 1.5664c-0.63307 0.16963-0.86116-0.1509-0.92008-0.58175l-0.3919-2.866c-0.07754-0.56706-0.05028-0.81481 0.56573-0.97987z" fill="url(#linearGradient4791)" style="paint-order:fill markers stroke"/>
+   <path d="m23.297 10.093 5.2957-1.419c0.48789-0.13073 0.76716 0.045848 0.97987 0.56573l1.2579 3.0746c0.16783 0.41023-0.1376 0.86515-0.56573 0.97987l-6.1115 1.6375c-0.42813 0.11472-0.92086-0.12644-0.97987-0.56573l-0.44227-3.2931c-0.07315-0.54468 0.02658-0.83541 0.56573-0.97987z" fill="#7a8693" style="paint-order:fill markers stroke"/>
+   <path d="m23.297 10.093 5.2957-1.419c0.48789-0.13073 0.7666 0.046076 0.97987 0.56573l1.2135 2.9571c0.15234 0.37122-0.05306 0.8425-0.55365 0.97663l-6.1115 1.6375c-0.63307 0.16963-0.95143-0.34543-0.97987-0.56573l-0.40992-3.1724c-0.07043-0.54505 0.02658-0.83541 0.56573-0.97987z" fill="url(#linearGradient4793)" style="paint-order:fill markers stroke"/>
+   <path d="m23.463 10.204 5.0301-1.3478c0.53914-0.14446 0.7159-0.081123 0.97987 0.56573l1.093 2.6781c0.21917 0.53703-0.01036 0.83106-0.51096 0.96519l-5.8458 1.5664c-0.63307 0.16963-0.86116-0.1509-0.92008-0.58175l-0.3919-2.866c-0.07754-0.56706-0.05028-0.81481 0.56573-0.97987z" fill="url(#linearGradient4795)" style="paint-order:fill markers stroke"/>
+  </g>
+ </g>
+</svg>

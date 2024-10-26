@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1537-5" x1="-101.09" x2="-101.09" y1="24.823" y2="12.616" gradientTransform="matrix(1.2882 0 0 1.2882 126.34 -13.748)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f55a37" offset="0"/>
+   <stop stop-color="#fa8c19" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1545-3" x1="-111.51" x2="-103.44" y1="22.313" y2="22.313" gradientTransform="matrix(1.2882 0 0 1.2882 126.34 -13.748)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b4329b" offset="0"/>
+   <stop stop-color="#870f50" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1529-7" x1="-112.02" x2="-97.816" y1="16.153" y2="16.153" gradientTransform="matrix(1.2882 0 0 1.2882 126.34 -13.748)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#19d264" offset="0"/>
+   <stop stop-color="#19c869" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1187" x1="2.2683" x2="2.2683" y1="15.389" y2="61.186" gradientTransform="matrix(.26458 0 0 .26458 -17.054 2.0482)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2d96f0" offset="0"/>
+   <stop stop-color="#28f0c8" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1501" x1="19.666" x2="78.176" y1="33.061" y2="33.061" gradientTransform="matrix(.26458 0 0 .26458 -23.726 2.0482)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00f0f0" offset="0"/>
+   <stop stop-color="#f0f000" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(17.053 -2.0482)">
+  <path d="m-2.8514 5.0343-6.274 6.5066 5.0622 5.4869a7.9374 7.9374 0 0 0 3.4136-6.5105 7.9374 7.9374 0 0 0-2.2019-5.4829z" fill="url(#linearGradient1537-5)" stroke-width="1.0665"/>
+  <path d="m-9.1254 11.541-5.2964 4.346a7.9374 7.9374 0 0 0 5.7215 2.5621h0.2718a7.9374 7.9374 0 0 0 4.8437-1.774l-5.5406-5.1339z" fill="url(#linearGradient1545-3)" stroke-width=".70378"/>
+  <path d="m-8.6016 2.5804a7.9374 7.9374 0 0 0-6.7637 3.8261l6.2404 5.1355 6.6568-6.0713a7.9374 7.9374 0 0 0-6.1086-2.8903h-0.024804z" fill="url(#linearGradient1529-7)" stroke-width=".9673"/>
+  <path d="m-15.133 6.0292a7.9374 7.9374 0 0 0-0.68161 1.2257l6.6957 4.2859-6.0139-5.5117z" image-rendering="optimizeSpeed" opacity=".1" stroke-width="1.1775"/>
+  <path d="m-7.6533 10.205-6.5277 5.9361a7.9374 7.9374 0 0 0 0.63976 0.56842l5.888-6.5044z" opacity=".4" stroke-width="1.2882"/>
+  <ellipse cx="-12.613" cy="6.6667" rx=".78331" ry=".82843" fill="#197d78" stroke-width="1.2526" style="paint-order:stroke fill markers"/>
+  <ellipse cx="-4.5616" cy="6.6667" rx=".78331" ry=".82843" fill="#197d78" stroke-width="1.2526" style="paint-order:stroke fill markers"/>
+  <g stroke-linecap="round">
+   <path d="m-15.12 6.0122a7.9374 7.9374 0 0 0-1.404 4.5051 7.9374 7.9374 0 0 0 2.3424 5.6218l5.0564-4.597z" fill="url(#linearGradient1187)" stroke-linejoin="round" stroke-width=".53299" style="paint-order:stroke fill markers"/>
+   <path d="m-4.5706 6.793a4.0202 4.7852 0 0 1 0.0037 0.1914 4.0202 4.7852 0 0 1-4.0202 4.7852 4.0202 4.7852 0 0 1-4.0202-4.7852 4.0202 4.7852 0 0 1 0.0037-0.19167" fill="none" opacity=".4" stroke="#000" stroke-dashoffset=".42096" stroke-width=".70177"/>
+   <path d="m-4.5586 6.784a4.0282 4.2603 0 0 1 0.0037 0.1704 4.0282 4.2603 0 0 1-4.0282 4.2603 4.0282 4.2603 0 0 1-4.0282-4.2603 4.0282 4.2603 0 0 1 0.0037-0.17065" fill="none" stroke="#fff" stroke-dashoffset=".42096" stroke-width=".66283"/>
+   <path d="m-13.541 4.3178a7.9374 7.9374 0 0 0-2.9832 6.1995 7.9374 7.9374 0 0 0 3.7894 6.7555l8.7833-4.8689c0.386-0.21278 0.65094-0.49927 0.79839-0.85161 0.14744-0.35581 0.14744-0.71163 0-1.064-0.14745-0.35232-0.41203-0.63844-0.79374-0.85471z" fill="url(#linearGradient1501)" opacity=".5" stroke-linejoin="round" stroke-width=".53299" style="paint-order:stroke fill markers"/>
+  </g>
+ </g>
+</svg>

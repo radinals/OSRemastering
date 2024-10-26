@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="c" x1="24.535" x2="24.535" y1="7.0931" y2="44.483" gradientTransform="matrix(.38004 0 0 .38004 11.077 2.9567)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#76dd38" offset="0"/>
+   <stop stop-color="#42c440" offset=".48433"/>
+   <stop stop-color="#14ab4b" offset="1"/>
+  </linearGradient>
+  <filter id="filter2040" x="-.032217" y="-.094106" width="1.0644" height="1.1882" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.60405546"/>
+  </filter>
+  <linearGradient id="linearGradient2034" x1="28.853" x2="28.853" y1="24.026" y2="40.034" gradientTransform="matrix(.26458 0 0 .26458 11.763 4.204)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#aaf8ad" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-11.763 -4.204)">
+  <circle cx="20.229" cy="12.67" r="7.9373" color="#000000" fill="url(#c)" overflow="visible" stroke-width=".26458" style="isolation:auto;mix-blend-mode:normal"/>
+  <text transform="matrix(.26458 0 0 .26458 11.763 4.204)" x="9.0945492" y="39.702728" fill="#14b432" fill-opacity=".96078" filter="url(#filter2040)" font-family="C059" font-size="21.337px" letter-spacing="0px" stroke-width=".53343" word-spacing="0px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="9.0945492" y="39.702728" fill="#14b432" fill-opacity=".96078" font-family="C059" font-size="21.337px" stroke-width=".53343" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">TEX</tspan></text>
+  <text x="14.1691" y="14.708444" fill="url(#linearGradient2034)" font-family="C059" font-size="5.6453px" letter-spacing="0px" stroke-width=".14113" word-spacing="0px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="14.1691" y="14.708444" fill="url(#linearGradient2034)" font-family="C059" font-size="5.6453px" stroke-width=".14113" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">TEX</tspan></text>
+ </g>
+</svg>

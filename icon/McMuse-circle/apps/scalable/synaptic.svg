@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="197.72" x2="2.1257" y1="1.9527" y2="197.34" gradientTransform="matrix(.079373 0 0 .079373 14.985 6.0733)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#505050" offset="0"/>
+   <stop stop-color="#323232" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2192" x1="190" x2="190" y1="34" y2="8" gradientTransform="matrix(.16893 0 0 .16893 -9.2142 9.1962)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1077"/>
+  <linearGradient id="linearGradient1077">
+   <stop stop-color="#f0b572" offset="0"/>
+   <stop stop-color="#fefefd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2196" x1="190" x2="212" y1="41" y2="41" gradientTransform="matrix(.16893 0 0 .16893 -9.2142 9.1962)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8832e" offset="0"/>
+   <stop stop-color="#b76930" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2198" x1="168" x2="190" y1="41" y2="41" gradientTransform="matrix(.16893 0 0 .16893 -9.2142 9.1962)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e09546" offset="0"/>
+   <stop stop-color="#ca7438" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2200" x1="140" x2="175" y1="10" y2="8" gradientTransform="matrix(.16893 0 0 .16893 -6.6803 9.1962)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eaa665" offset="0"/>
+   <stop stop-color="#df894c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2202" x1="175" x2="210.48" y1="8.5" y2="8.5" gradientTransform="matrix(.16893 0 0 .16893 -6.6803 9.1962)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e08d4f" offset="0"/>
+   <stop stop-color="#f0b572" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2204" x1="155" x2="190" y1="33.5" y2="33.5" gradientTransform="matrix(.16893 0 0 .16893 -9.2142 9.1962)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e9a262" offset="0"/>
+   <stop stop-color="#e08d4f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2206" x1="190" x2="225" y1="33.5" y2="33.5" gradientTransform="matrix(.16893 0 0 .16893 -9.2142 9.1962)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e08c4e" offset="0"/>
+   <stop stop-color="#e9a261" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2208" x1="189.9" x2="190.17" y1="47.5" y2="47.5" gradientTransform="matrix(.16893 0 0 .16893 -9.2142 9.1962)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cb7639" offset="0"/>
+   <stop stop-color="#d6812e" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-14.456 -5.5442)">
+  <circle cx="22.923" cy="14.011" r="7.9373" color="#000000" fill="url(#b)" image-rendering="optimizeSpeed" stroke-width=".26458"/>
+  <g>
+   <g stroke-width=".17215">
+    <path d="m22.882 10.548-3.7164 2.1961v4.73l3.7164-2.5339z" fill="url(#linearGradient2192)" image-rendering="optimizeSpeed"/>
+    <path d="m22.882 10.548 3.7164 2.1961v4.73l-3.7164-2.5339z" fill="url(#linearGradient2192)" image-rendering="optimizeSpeed"/>
+    <path d="m22.882 14.94 3.7164-2.1961v4.73l-3.7164 2.0271z" fill="url(#linearGradient2196)" image-rendering="optimizeSpeed"/>
+    <path d="m22.882 14.94-3.7164-2.1961v4.73l3.7164 2.0271z" fill="url(#linearGradient2198)" image-rendering="optimizeSpeed"/>
+    <path d="m20.517 8.5205-3.5475 2.365 2.1961 1.8582 3.7164-2.1961z" fill="url(#linearGradient2200)" image-rendering="optimizeSpeed"/>
+    <path d="m25.247 8.5205 3.6285 2.1961-2.2771 2.0271-3.7164-2.1961z" fill="url(#linearGradient2202)" image-rendering="optimizeSpeed"/>
+    <path d="m22.882 14.94-3.7164-2.1961-2.1961 1.8582 3.5475 2.365z" fill="url(#linearGradient2204)" image-rendering="optimizeSpeed"/>
+    <path d="m22.882 14.94 3.7164-2.1961 2.1961 1.8582-3.5475 2.365z" fill="url(#linearGradient2206)" image-rendering="optimizeSpeed"/>
+   </g>
+   <path d="m22.882 14.94-0.18906 0.16893-0.0013 4.2846 0.19041 0.10756 0.19038-0.10756-0.0013-4.2846z" fill="url(#linearGradient2208)" image-rendering="optimizeSpeed"/>
+  </g>
+ </g>
+</svg>

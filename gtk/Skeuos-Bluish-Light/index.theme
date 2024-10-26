@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Skeuos-Bluish-Light
+Comment=Skeuos-Bluish-Light theme"
+Encoding=UTF-8
+
+
+[X-GNOME-Metatheme]
+GtkTheme=Skeuos-Bluish-Light
+MetacityTheme=Skeuos-Bluish-Light
+IconTheme=Flat-Remix-Bluish-Light
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close

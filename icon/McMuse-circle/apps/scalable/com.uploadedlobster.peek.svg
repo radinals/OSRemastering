@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1100" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2793" x1="103.5" x2="103.5" y1="21.492" y2="61.736" gradientTransform="translate(-45.455 15.524)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dfe0ea" offset="0"/>
+   <stop stop-color="#d3d6e3" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2785-9" x1="-184.75" x2="-184.75" y1="-11.395" y2="-15.712" gradientTransform="matrix(4.0555 0 0 3.7796 779.23 79.811)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fe9808" offset="0"/>
+   <stop stop-color="#fbbb28" offset="1"/>
+  </linearGradient>
+  <filter id="filter1305" x="-.060002" y="-.060002" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61852427"/>
+  </filter>
+  <filter id="filter1299" x="-.03047" y="-.03047" width="1.0609" height="1.0609" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.18834042"/>
+  </filter>
+  <linearGradient id="linearGradient1299" x1="-228.54" x2="-228.54" y1="49.422" y2="52.801" gradientTransform="translate(237.02,-44.947)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1227"/>
+  <linearGradient id="linearGradient1227" x1="-228.54" x2="-228.54" y1="49.422" y2="52.342" gradientTransform="translate(237.02,-44.947)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff9b0a" offset="0"/>
+   <stop stop-color="#ff9b0a" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="filter1229" x="-.087958" y="-.13634" width="1.1759" height="1.2727" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.17148967"/>
+  </filter>
+  <linearGradient id="linearGradient1301" x1="-228.54" x2="-228.54" y1="50.082" y2="52.668" gradientTransform="translate(237.02,-44.947)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff9b0a" offset="0"/>
+   <stop stop-color="#ff9b0a" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1374" x1="-228.54" x2="-228.54" y1="49.864" y2="52.801" gradientTransform="translate(237.02,-44.947)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1227"/>
+  <filter id="filter1382" x="-.087958" y="-.13634" width="1.1759" height="1.2727" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.17148967"/>
+  </filter>
+  <filter id="filter1251" x="-.20813" y="-.28381" width="1.4163" height="1.5676" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.069999797"/>
+  </filter>
+  <linearGradient id="linearGradient1386" x1="-228.54" x2="-228.54" y1="50.425" y2="51.39" gradientTransform="translate(237.02,-44.947)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1baec9" offset="0"/>
+   <stop stop-color="#1baec9" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="filter1275-5" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.04134033"/>
+  </filter>
+  <linearGradient id="linearGradient1877" x1="-228.54" x2="-228.54" y1="50.425" y2="51.39" gradientTransform="translate(237.02,-44.947)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1386"/>
+ </defs>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#linearGradient1100)" stroke-width="1.5715"/>
+ <g transform="translate(-27.446 -15.524)">
+  <circle cx="59.446" cy="47.524" r="30" fill="url(#linearGradient2793)" stroke-width=".41262"/>
+  <path d="m59.3 17.524a30 30 0 0 0-27.951 19.484h56.193a30 30 0 0 0-28.098-19.484 30 30 0 0 0-0.14453 0z" fill="url(#linearGradient2785-9)"/>
+  <circle transform="matrix(1.5422 0 0 1.574 483.35 -21.429)" cx="-274.87" cy="44.339" r="12.37" filter="url(#filter1305)" opacity=".25"/>
+  <g stroke-width="1.5573">
+   <circle cx="59.441" cy="47.525" r="19.264" fill="#fff"/>
+   <circle cx="59.441" cy="47.525" r="15.92" fill="#3871ba"/>
+   <circle cx="59.446" cy="47.525" r="15.92" fill="#49697a"/>
+  </g>
+  <circle transform="matrix(1.656 0 0 1.656 514.64 -25.901)" cx="-274.87" cy="44.339" r="9.417" fill="none" filter="url(#filter1299)" opacity=".25" stroke="#1e1e1e" stroke-dashoffset=".42096" stroke-width=".24372"/>
+  <circle cx="59.446" cy="47.525" r="8.068" fill="#335059" stroke="#234655" stroke-width=".3"/>
+  <ellipse transform="matrix(4.9755 0 0 5.5231 17.321 4.926)" cx="8.4666" cy="6.4479" rx="2.3396" ry="1.5094" fill="url(#linearGradient1299)" filter="url(#filter1229)" opacity=".4"/>
+  <ellipse transform="matrix(5.1959 0 0 5.7679 15.454 3.348)" cx="8.4666" cy="6.4479" rx="2.3396" ry="1.5094" fill="url(#linearGradient1301)" filter="url(#filter1229)" opacity=".4"/>
+  <ellipse transform="matrix(5.5053 0 0 6.1112 12.835 3.457)" cx="8.4666" cy="6.4479" rx="2.3396" ry="1.5094" fill="url(#linearGradient1374)" filter="url(#filter1382)" opacity=".4"/>
+  <ellipse transform="matrix(11.289 0 0 8.4031 -36.132 -10.559)" cx="8.4666" cy="5.6413" rx=".40359" ry=".29597" fill="#fff" filter="url(#filter1251)" opacity=".7"/>
+  <ellipse transform="matrix(5.5053 0 0 -6.1112 12.835 92.215)" cx="8.4666" cy="6.4479" rx="2.3396" ry="1.5094" fill="url(#linearGradient1877)" filter="url(#filter1382)" opacity=".4"/>
+  <ellipse transform="matrix(5.5053 0 0 -6.1112 12.835 93.221)" cx="8.4666" cy="6.4479" rx="2.3396" ry="1.5094" fill="url(#linearGradient1877)" filter="url(#filter1382)" opacity=".4"/>
+  <ellipse transform="matrix(8.1712 0 0 -6.0824 -9.7367 95.224)" cx="8.4666" cy="5.6413" rx=".40359" ry=".29597" fill="#fff" filter="url(#filter1251)" opacity=".7"/>
+  <circle transform="matrix(3.2679 0 0 3.2832 31.933 19.439)" cx="13.675" cy="3.2411" r=".82681" filter="url(#filter1275-5)" opacity=".25"/>
+  <circle cx="76.622" cy="29.914" r="2.6371" fill="#fff" stroke-width="3.7796"/>
+ </g>
+</svg>
